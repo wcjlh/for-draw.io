@@ -4,17 +4,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JpdCvypv59iybRY39wXH-1" value="商品(定义)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JpdCvypv59iybRY39wXH-1" value="商品(定义)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="288" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JpdCvypv59iybRY39wXH-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="JpdCvypv59iybRY39wXH-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="130" y="243" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JpdCvypv59iybRY39wXH-3" value="使用价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JpdCvypv59iybRY39wXH-3" value="使用价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="228" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JpdCvypv59iybRY39wXH-4" value="价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JpdCvypv59iybRY39wXH-4" value="价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-1" value="有用物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="488" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="130" y="443" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-3" value="质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="428" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-4" value="量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="548" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="440" as="sourcePoint" />
+            <mxPoint x="280" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-6" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="413" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-7" value="使用价值的大小" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="428" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
