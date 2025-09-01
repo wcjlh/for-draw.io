@@ -1,18 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="5zXjG8tVK6sSPYv410bt">
-    <mxGraphModel dx="2893" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JpdCvypv59iybRY39wXH-1" value="商品(定义)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="288" width="80" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="商品(&lt;font style=&quot;color: rgb(0, 255, 255);&quot;&gt;定义&lt;/font&gt;)" tooltip="商品首先是一个外界的对象,一个靠自己的属性来满足人的某种需要的物" id="JpdCvypv59iybRY39wXH-1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+            <mxGeometry x="50" y="288" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JpdCvypv59iybRY39wXH-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="130" y="243" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JpdCvypv59iybRY39wXH-3" value="使用价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="145" y="228" width="70" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="使用价值" tooltip="决定于商品体的属性" id="JpdCvypv59iybRY39wXH-3">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+            <mxGeometry x="145" y="228" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="JpdCvypv59iybRY39wXH-4" value="价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="348" width="50" height="30" as="geometry" />
         </mxCell>
