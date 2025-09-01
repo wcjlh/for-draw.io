@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="5zXjG8tVK6sSPYv410bt">
-    <mxGraphModel dx="2066" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,28 +17,118 @@
           <mxGeometry x="145" y="348" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-1" value="有用物" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="488" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="130" y="443" width="20" height="120" as="geometry" />
+          <mxGeometry x="110" y="480" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-3" value="质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="428" width="40" height="30" as="geometry" />
+          <mxGeometry x="130" y="465" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-4" value="量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="548" width="40" height="30" as="geometry" />
+          <mxGeometry x="130" y="585" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="440" as="sourcePoint" />
-            <mxPoint x="280" y="440" as="targetPoint" />
+            <mxPoint x="170" y="477" as="sourcePoint" />
+            <mxPoint x="260" y="477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckyu920ah1OazrjmPnx2-6" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="413" width="50" height="30" as="geometry" />
+        <mxCell id="ckyu920ah1OazrjmPnx2-6" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="190" y="455" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ckyu920ah1OazrjmPnx2-7" value="使用价值的大小" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="428" width="110" height="30" as="geometry" />
+        <mxCell id="ckyu920ah1OazrjmPnx2-7" value="使用价值的&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;大小&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="465" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-10" value="" style="endArrow=classic;html=1;rounded=0;jumpStyle=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="450" as="sourcePoint" />
+            <mxPoint x="260" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-11" value="物的属性很多，其使用方式靠历史发掘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.752;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.967;exitY=0.389;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ckyu920ah1OazrjmPnx2-4" target="ckyu920ah1OazrjmPnx2-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="168" y="600" as="sourcePoint" />
+            <mxPoint x="220" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-13" value="m使用价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-16" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="687.5" as="sourcePoint" />
+            <mxPoint x="200" y="687.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-17" value="" style="endArrow=openAsync;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192.5" y="692.5" as="sourcePoint" />
+            <mxPoint x="127.5" y="692.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-18" value="n使用价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="678" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-19" value="交换价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="718" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="730" as="sourcePoint" />
+            <mxPoint x="160" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-22" value="表现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="135" y="713" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-23" value="m小麦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="768" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-24" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="768" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-25" value="n铁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="768" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-26" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-27" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="115" y="790" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-28" value="a个g" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="818" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-29" value="=" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="818" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-30" value="b个g" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="818" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="66.25" y="848" width="77.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-33" value="化为一种&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;共同东西&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="55" y="858" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-34" value="商品的交换价值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="910" as="sourcePoint" />
+            <mxPoint x="120" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ckyu920ah1OazrjmPnx2-36" value="代表东西的多少" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="85" y="893" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
