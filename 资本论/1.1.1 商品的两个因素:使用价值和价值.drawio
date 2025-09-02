@@ -120,80 +120,80 @@
           <mxGeometry x="85" y="905" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-37" value="商品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="218" width="50" height="30" as="geometry" />
+          <mxGeometry x="840" y="240" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="625" y="240" as="sourcePoint" />
-            <mxPoint x="625" y="260" as="targetPoint" />
+            <mxPoint x="865" y="262" as="sourcePoint" />
+            <mxPoint x="865" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-39" value="商品的使用价值抽去" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="560" y="258" width="130" height="30" as="geometry" />
+          <mxGeometry x="800" y="280" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-41" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="625" y="290" as="sourcePoint" />
-            <mxPoint x="625" y="290" as="targetPoint" />
+            <mxPoint x="865" y="312" as="sourcePoint" />
+            <mxPoint x="865" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.733;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ckyu920ah1OazrjmPnx2-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="625" y="290" as="sourcePoint" />
-            <mxPoint x="625" y="300" as="targetPoint" />
+            <mxPoint x="865" y="312" as="sourcePoint" />
+            <mxPoint x="865" y="322" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-43" value="劳动产品属性抽去" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="565" y="298" width="120" height="30" as="geometry" />
+          <mxGeometry x="805" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="ckyu920ah1OazrjmPnx2-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="625" y="330" as="sourcePoint" />
-            <mxPoint x="625" y="350" as="targetPoint" />
+            <mxPoint x="865" y="352" as="sourcePoint" />
+            <mxPoint x="865" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-45" value="相同抽象人类劳动 (价值)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="348" width="150" height="30" as="geometry" />
+          <mxGeometry x="790" y="370" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-50" value="社会平均劳动时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="398" width="120" height="30" as="geometry" />
+          <mxGeometry x="790" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.547;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ckyu920ah1OazrjmPnx2-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="370" as="sourcePoint" />
-            <mxPoint x="730" y="320" as="targetPoint" />
+            <mxPoint x="910" y="392" as="sourcePoint" />
+            <mxPoint x="970" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-53" value="的判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="640" y="378" width="50" height="20" as="geometry" />
+          <mxGeometry x="880" y="400" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-54" value="社会必要劳动时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="710" y="398" width="120" height="30" as="geometry" />
+          <mxGeometry x="950" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-55" value="价值量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="740" y="465" width="60" height="30" as="geometry" />
+          <mxGeometry x="980" y="487" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.506;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ckyu920ah1OazrjmPnx2-54" target="ckyu920ah1OazrjmPnx2-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-57" value="决定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="760" y="435" width="40" height="20" as="geometry" />
+          <mxGeometry x="1000" y="457" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-58" value="商品的价值量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="580" width="100" height="30" as="geometry" />
+          <mxGeometry x="790" y="602" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-59" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="640" y="565" width="10" height="60" as="geometry" />
+          <mxGeometry x="880" y="587" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-60" value="与实现在商品中的劳动量成正比变动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="555" width="220" height="30" as="geometry" />
+          <mxGeometry x="880" y="577" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-61" value="与这一劳动的生产力成反比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="610" width="170" height="30" as="geometry" />
+          <mxGeometry x="880" y="632" width="170" height="30" as="geometry" />
         </mxCell>
         <object label="&lt;ol&gt;&lt;li&gt;一个物可以是使用价值而不是价值。&lt;/li&gt;&lt;li&gt;一个物可以有用，而且是人类劳动产品，但不是商品&lt;/li&gt;&lt;li&gt;没有一个物可以是价值而不是使用物品&lt;/li&gt;&lt;/ol&gt;" first="在这个物不是以劳动为中介对别人有用的情况下就是这样。例如空气" second="谁用自己的产品来满足自己的需求，他生产的虽然是使用价值，但不是商品。要生产商品，他不仅要生产使用价值，而且要为别人生产使用价值，即生产社会的使用价值" third="如果物没有用，那么其中包含的劳动也就没有用，不能算做劳动，因此不形成价值" id="88BDT4Vo-o4Nhp33Y335-7">
           <mxCell style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="559" y="718" width="361" height="80" as="geometry" />
+            <mxGeometry x="860" y="750" width="361" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="88BDT4Vo-o4Nhp33Y335-8" value="小麦 =&amp;nbsp; a个g" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
