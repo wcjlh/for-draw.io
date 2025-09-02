@@ -206,9 +206,11 @@
         <mxCell id="ckyu920ah1OazrjmPnx2-61" value="与这一劳动的生产力成反比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="610" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="88BDT4Vo-o4Nhp33Y335-7" value="&lt;ol&gt;&lt;li&gt;一个物可以是使用价值而不是价值。&lt;/li&gt;&lt;li&gt;一个物可以有用，而且是人类劳动产品，但不是商品&lt;/li&gt;&lt;li&gt;没有一个物可以是价值而不是使用物品&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="559" y="718" width="361" height="80" as="geometry" />
-        </mxCell>
+        <object label="&lt;ol&gt;&lt;li&gt;一个物可以是使用价值而不是价值。&lt;/li&gt;&lt;li&gt;一个物可以有用，而且是人类劳动产品，但不是商品&lt;/li&gt;&lt;li&gt;没有一个物可以是价值而不是使用物品&lt;/li&gt;&lt;/ol&gt;" first="在这个物不是以劳动为中介对别人有用的情况下就是这样。例如空气" second="谁用自己的产品来满足自己的需求，他生产的虽然是使用价值，但不是商品。要生产商品，他不仅要生产使用价值，而且要为别人生产使用价值，即生产社会的使用价值" id="88BDT4Vo-o4Nhp33Y335-7">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="559" y="718" width="361" height="80" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
