@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="第 1 页" id="5zXjG8tVK6sSPYv410bt">
-    <mxGraphModel dx="2765" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,6 +205,9 @@
         </mxCell>
         <mxCell id="ckyu920ah1OazrjmPnx2-61" value="与这一劳动的生产力成反比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="610" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="88BDT4Vo-o4Nhp33Y335-7" value="&lt;ol&gt;&lt;li&gt;一个物可以是使用价值而不是价值。&lt;/li&gt;&lt;li&gt;一个物可以有用，而且是人类劳动产品，但不是商品&lt;/li&gt;&lt;li&gt;没有一个物可以是价值而不是使用物品&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="559" y="718" width="361" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
