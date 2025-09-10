@@ -89,6 +89,12 @@
         <mxCell id="RJpZnBPKvuyQVRzW6pbo-2" value="苦集灭道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RJpZnBPKvuyQVRzW6pbo-3" value="万物一体，众生平等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RJpZnBPKvuyQVRzW6pbo-4" value="体用不二" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
