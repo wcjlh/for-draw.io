@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.2">
+  <diagram name="第 1 页" id="S__b25z2ENVKFjySh0Ca">
+    <mxGraphModel dx="2066" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-1" value="我执&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="48" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-2" value="——&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="48" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-3" value="苦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="48" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-4" value="无生法忍&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="118" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-5" value="——&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="118" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-6" value="离苦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="118" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="120" as="sourcePoint" />
+            <mxPoint x="150" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-8" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="118" as="sourcePoint" />
+            <mxPoint x="230" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="78" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-9" value="忍住应激反应（依他起性）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="88" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-10" value="因果业力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="158" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-11" value="——&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="158" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-12" value="过去的已然发生，当下播种新的可能性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="158" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-13" value="（客观规律）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-14" value="（人生的命运呈现合力）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-15" value="色受想行识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="228" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="250" as="sourcePoint" />
+            <mxPoint x="110" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="sourcePoint" />
+            <mxPoint x="120" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-19" value="意动&amp;nbsp; 身动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="95" y="300" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gaEWtHbvREKr-Lk5FOce-21" value="阻绝被动循环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
